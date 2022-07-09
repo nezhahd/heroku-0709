@@ -2,7 +2,7 @@
 
 1、在浏览器复制链接   https://dashboard.heroku.com/new?template= 加上上传至Github的项目地址链接，回车进入Heroku参数设置界面
 
-本项目链接： https://dashboard.heroku.com/new?template=https://github.com/nezhahd/heroku-hd0627
+本项目链接： https://dashboard.heroku.com/new?template=https://github.com/nezhahd/heroku-0709
 
 2、之前没有登录记录的话，会先提示注册并或登录Heroku界面，大家自己注册或者登录下
 
